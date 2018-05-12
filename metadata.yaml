@@ -1,0 +1,42 @@
+_repo: Journal-and-Letters-of-Philip-Vickers-Fithian--A-Plantation-Tutor-of-the-Old-Dominion-1773-17__40044
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kredel, Fritz
+    birthdate: 1900
+    deathdate: 1973
+    gutenberg_agent_id: '40388'
+    url: http://www.gutenberg.org/2009/agents/40388
+covers:
+- cover_type: archival
+  image_path: 40044-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Fithian, Philip Vickers
+    birthdate: 1747
+    deathdate: 1776
+    gutenberg_agent_id: '40386'
+    url: http://www.gutenberg.org/2009/agents/40386
+  editor:
+    agent_name: Farish, Hunter Dickinson
+    birthdate: 1897
+    deathdate: 1945
+    gutenberg_agent_id: '40387'
+    url: http://www.gutenberg.org/2009/agents/40387
+description: ''
+gutenberg_issued: '2012-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40044'
+  lccn: '57013498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Social life and customs -- To 1775'
+- !lcsh 'Carter family'
+- !lcc 'F206'
+title: 'Journal and Letters of Philip Vickers Fithian: A Plantation Tutor of the Old
+  Dominion, 1773-1774.'
+url: http://www.gutenberg.org/ebooks/40044
