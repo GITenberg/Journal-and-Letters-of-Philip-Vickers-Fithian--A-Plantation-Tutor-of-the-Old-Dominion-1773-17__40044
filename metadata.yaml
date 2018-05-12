@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '40387'
     url: http://www.gutenberg.org/2009/agents/40387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40044#Journal-and-Letters-of-Philip-Vickers-Fithian--A-Plantation-Tutor-of-the-Old-Dominion-1773-17_
 gutenberg_issued: '2012-06-20'
 gutenberg_type: Text
 identifiers:
